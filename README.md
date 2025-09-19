@@ -1,4 +1,6 @@
 # MIRROR
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLimo123123%2Flimowebsite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLimo123123%2Flimowebsite?ref=badge_shield)
+
 
 This is the Master Branch. Changes have been applied automatically and won't work to 100%
 
@@ -110,3 +112,7 @@ For the Installation Guide. I will just say the same like on Github
 >Enter after 'wre' The Release you Want z.b. 4.0
 
 _© 2025 Limo Open Source Project_
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLimo123123%2Flimowebsite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLimo123123%2Flimowebsite?ref=badge_large)
